@@ -13,3 +13,5 @@ if(answer.guessNumberGame === guessNum){
 }else{
   console.log("you guess wrong number")
 }
+
+console.log("the end")
